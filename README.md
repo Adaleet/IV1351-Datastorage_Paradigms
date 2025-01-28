@@ -16,11 +16,15 @@ This project was developed as part of the **IV1351 Data Storage Paradigms** cour
 
 ## Project Structure:
 ```
-├── task1.sql               # SQL script for Task 1 of Seminar 3
-├── task2.sql               # SQL script for Task 2 of Seminar 3
-├── task3.sql               # SQL script for Task 3 of Seminar 3
-├── task1explain.sql        # EXPLAIN analysis for Task 1 of Seminar 3
-├── models/                 # Database models and diagrams
-├── queries.sql             # Additional OLAP queries and examples
+└── models/                 # Database models and diagrams
+    ├── Conceptual and Logical & Physical models (Seminar 1 & 2)
+├── Seminar 3:
+    ├── task1.sql               # SQL script for Task 1 of Seminar 3
+    ├── task2.sql               # SQL script for Task 2 of Seminar 3
+    ├── task3.sql               # SQL script for Task 3 of Seminar 3
+    ├── task1explain.sql        # EXPLAIN analysis for Task 1 of Seminar 3
 ├── reports/                # Generated reports and business insights
+    ├── Seminar 1
+    ├── Seminar 2
+    ├── Seminar 3
 └── README.md               # Project documentation
