@@ -24,4 +24,3 @@ This project was developed as part of the **IV1351 Data Storage Paradigms** cour
 ├── queries.sql             # Additional OLAP queries and examples
 ├── reports/                # Generated reports and business insights
 └── README.md               # Project documentation
-´´´ 
