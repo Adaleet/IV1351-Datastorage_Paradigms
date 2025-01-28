@@ -15,7 +15,7 @@ This project was developed as part of the **IV1351 Data Storage Paradigms** cour
 - **Programming Languages**: SQL, Java (for the higher grade tasks, that is not included yet)
 
 ## Project Structure:
-''' 
+```
 ├── task1.sql               # SQL script for Task 1 of Seminar 3
 ├── task2.sql               # SQL script for Task 2 of Seminar 3
 ├── task3.sql               # SQL script for Task 3 of Seminar 3
@@ -24,4 +24,4 @@ This project was developed as part of the **IV1351 Data Storage Paradigms** cour
 ├── queries.sql             # Additional OLAP queries and examples
 ├── reports/                # Generated reports and business insights
 └── README.md               # Project documentation
-''' 
+´´´ 
